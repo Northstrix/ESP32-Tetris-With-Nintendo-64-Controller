@@ -12,6 +12,8 @@ Original project: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tre
 
 You can also download the code from https://sourceforge.net/projects/esp32-tetris/
 
+The tutorial is available at https://www.instructables.com/How-to-Play-Tetris-on-ESP32-CYD-With-Nintendo-64-C/
+
 ![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/IMG_0511.jpg)
 
 ![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/Start%20screens.jpg)
