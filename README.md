@@ -10,7 +10,7 @@ GitHub repository: https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-C
  
 Original project: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main/Examples/Projects/TetrisWithNunchuck
 
-This project is also available at https://sourceforge.net/projects/esp32-tetris/
+You can also download the code from https://sourceforge.net/projects/esp32-tetris/
 
 ![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/IMG_0511.jpg)
 
