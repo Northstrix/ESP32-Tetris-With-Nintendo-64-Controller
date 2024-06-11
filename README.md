@@ -1,6 +1,6 @@
 # ESP32-Tetris-With-Nintendo-64-Controller
 
-ESP32 Tetris with Nintendo 64 Controller
+Tetris for ESP32 with Nintendo 64 controller support.
  
 Based on the work of [Brian Lough](https://github.com/witnessmenow)
  
