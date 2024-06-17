@@ -16,6 +16,14 @@ The tutorial is available at https://www.instructables.com/How-to-Play-Tetris-on
 
 ![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/IMG_0511.jpg)
 
-![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/Start%20screens.jpg)
-
 ![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.0/Images/Circuit%20Diagram.png)
+
+![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.1/Images/IMG_0605.jpg)
+
+![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.1/Images/IMG_0606.jpg)
+
+![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.1/Images/IMG_0607.jpg)
+
+![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.1/Images/IMG_0608.jpg)
+
+![image text](https://github.com/Northstrix/ESP32-Tetris-With-Nintendo-64-Controller/blob/main/V1.1/Images/IMG_0609.jpg)
